@@ -1,7 +1,7 @@
 markdown: redcarpet
 
 url: http://arayne74.github.io
-baseurl: /azami
+baseurl: "/azami"
 
 paginate: 2
 
