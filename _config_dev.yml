@@ -1,0 +1,7 @@
+markdown: redcarpet
+
+url: http://localhost
+baseurl:
+
+paginate: 2
+
