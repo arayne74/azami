@@ -1,6 +1,6 @@
 markdown: redcarpet
 
-baseurl:
+baseurl: /azami
 
 paginate: 2
 
