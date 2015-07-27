@@ -391,3 +391,10 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
+
+.shell {
+ background:lightGrey; 
+ padding: 20px;
+ -moz-border-radius:16px;  
+ border-radius:16px; 
+}
