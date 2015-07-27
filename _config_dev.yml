@@ -1,7 +1,7 @@
 markdown: redcarpet
 
 url: http://localhost
-baseurl:
+baseurl: /azami
 
 paginate: 2
 
