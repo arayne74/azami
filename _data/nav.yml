@@ -1,0 +1,27 @@
+- title: "Home"
+  href: "/"
+
+- title: "Classes"
+  subcategories:
+    - subtitle: "Edinburgh Aikikai"
+      subhref: "/edinburghclasses.html"
+    - subtitle: "Glasgow Aikikai"
+      subhref: "/glasgowclasses.html"
+    - subtitle: "St. Andrews/Fife Aikikai"
+      subhref: "/standrewsclasses.html"
+    - subtitle: "Paisley Aikikai"
+      subhref: "/paisleyclasses.html"
+    - subtitle: "Kids Classes"
+      subhref: "/kidsclasses.html"
+
+
+- title: "Instructor"
+  href: "/Instructors.html"
+
+
+- title: "About Aikido"
+  href: "/about.html"
+
+
+- title: "Contact"
+  href: "/contact.html"
