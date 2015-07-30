@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "hello world welcome to jekyll blog"
-description: "An awesome introduction to Jekyll and its features"
+title: "another interesting post"
+description: "more stuff"
 author: "Azamikai"
 coverImg: "post-bg.jpg"
 ---
