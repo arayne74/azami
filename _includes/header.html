@@ -42,6 +42,9 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="site-heading">
+						{% if page.titleCol %}
+                        <h1 style="color:{page.titleCol}">{{page.title}}</h1>						
+						{% else %}
                         <h1>{{page.title}}</h1>
                        
 						{% if page.author %}
