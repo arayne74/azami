@@ -3,7 +3,7 @@ layout: post
 title: "Yokota Sensei In Bulgaria"
 description: ""
 author: "Azamikai"
-coverImg: "post-bg.jpg"
+coverImg: "yokotasliven.jpg"
 ---
 
 **Sliven Aikikai 20th Anniversary**
