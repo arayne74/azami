@@ -8,7 +8,7 @@ coverImg: ""
 
 **Paisley Seminar**
 
-Neil will be teaching a Saturday Seminar on Sat 17th October through at the Paisley dojo.
+Neil will be teaching a Saturday Seminar on **Sat 17th October** through at the Paisley dojo.
 
 **Venue:**<br>
 Robertson Sports Centre<br>
