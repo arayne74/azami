@@ -12,13 +12,12 @@ Neil will be teaching a Saturday Seminar on Sat 17th October through at the Pais
 
 Venue:
 
-Robertson Sports Centre
-
-University of West of Scotland
-Thornly Park Campus
-Caplethill Rd
-Paisely
-PA2 7TR
+Robertson Sports Centre<br>
+University of West of Scotland<br>
+Thornly Park Campus<br>
+Caplethill Rd<br>
+Paisely<br>
+PA2 7TR<br>
 
 
 Training times: 10am-1pm.
