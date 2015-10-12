@@ -2,5 +2,5 @@ markdown: redcarpet
 
 url: http://www.azamikai.co.uk
 baseurl:
-paginate: 2
+paginate: 4
 
