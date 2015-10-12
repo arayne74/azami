@@ -13,6 +13,7 @@ Neil will be teaching a Saturday Seminar on Sat 17th October through at the Pais
 Venue:
 
 Robertson Sports Centre
+
 University of West of Scotland
 Thornly Park Campus
 Caplethill Rd
