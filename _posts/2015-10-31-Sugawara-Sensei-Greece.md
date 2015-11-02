@@ -10,4 +10,4 @@ coverImg: ""
 
 Sugawara Sensei will be teaching 2 seminars this week in Greece starting on **6th November** in Athens. 
 
-<img src="../img/greece_sugawara.jpg"/>
+<img src="img/greece_sugawara.jpg"/>
