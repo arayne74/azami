@@ -6,7 +6,9 @@ description: ""
 order: 2
 ---
 
-
+<div>
 {% for gallery in site.data.galleries %}
-- [{{ gallery.description }}]({{ gallery.id }})
+<a href="{{gallery.id}}gallery.html"/>
+		<a href="{{gallery.id}}gallery.html">{{gallery.id}} gallery</a>
 {% endfor %}
+</div>
