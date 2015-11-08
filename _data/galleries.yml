@@ -1,0 +1,20 @@
+- id: glasgow
+  description: Some training images from the Glasgow Dojo
+  imagefolder: ../gallery/glasgow
+  images:
+  - name: glasgow_gallery_large001.jpg
+    thumb: glasgow_gallery_small001.jpg
+    text: The first image
+  - name: glasgow_gallery_large002.jpg
+    thumb: glasgow_gallery_small002.jpg
+    text: The second image
+  - name: glasgow_gallery_large003.jpg
+    thumb: glasgow_gallery_small003.jpg
+    text: The third image
+  - name: glasgow_gallery_large004.jpg
+    thumb: glasgow_gallery_small004.jpg
+    text: The third image
+  - name: glasgow_gallery_large005.jpg
+    thumb: glasgow_gallery_small005.jpg
+    text: The third image
+	
