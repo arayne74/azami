@@ -12,3 +12,41 @@
     thumb: glasgow_gallery_small004.jpg
   - name: glasgow_gallery_large005.jpg
     thumb: glasgow_gallery_small005.jpg
+- id: edinburgh
+  description: Edinburgh Dojo training
+  imagefolder: gallery/edinburgh
+  images:
+  - name: edinburgh_gallery_large001.jpg
+    thumb: edinburgh_gallery_small001.jpg
+  - name: edinburgh_gallery_large002.jpg
+    thumb: edinburgh_gallery_small002.jpg
+  - name: edinburgh_gallery_large003.jpg
+    thumb: edinburgh_gallery_small003.jpg
+  - name: edinburgh_gallery_large004.jpg
+    thumb: edinburgh_gallery_small004.jpg
+  - name: edinburgh_gallery_large005.jpg
+    thumb: edinburgh_gallery_small005.jpg
+  - name: edinburgh_gallery_large006.jpg
+    thumb: edinburgh_gallery_small006.jpg
+  - name: edinburgh_gallery_large007.jpg
+    thumb: edinburgh_gallery_small007.jpg
+  - name: edinburgh_gallery_large008.jpg
+    thumb: edinburgh_gallery_small008.jpg
+  - name: edinburgh_gallery_large009.jpg
+    thumb: edinburgh_gallery_small009.jpg
+  - name: edinburgh_gallery_large010.jpg
+    thumb: edinburgh_gallery_small010.jpg
+- id: standrews
+  description: St. Andrews Dojo training
+  imagefolder: gallery/standrews
+  images:
+  - name: andrews_gallery_large001.jpg
+    thumb: andrews_gallery_small001.jpg
+  - name: andrews_gallery_large002.jpg
+    thumb: andrews_gallery_small002.jpg
+  - name: andrews_gallery_large003.jpg
+    thumb: andrews_gallery_small003.jpg
+  - name: andrews_gallery_large004.jpg
+    thumb: andrews_gallery_small004.jpg
+  - name: andrews_gallery_large005.jpg
+    thumb: andrews_gallery_small005.jpg

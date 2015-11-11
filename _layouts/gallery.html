@@ -4,11 +4,11 @@ layout: default
 
 {% include galheader.html %}
 
-<p>default header for all gallery pages</p>
-
 {% for gallery in site.data.galleries %}
   {% if gallery.id == page.galleryid %}
-    <h1>{{ gallery.description }}</h1>
+	<div class="container"></div>
+    	<div class="col-md-5">
+    <h3>{{ gallery.description }}</h3>
     <ol>
 	
     {% for image in gallery.images %}
@@ -23,7 +23,7 @@ layout: default
     {% endfor %}
 
     </ol>
+	</div>
+	</div>
   {% endif %}
 {% endfor %}
-
-<p>default footer for all gallery pages</p>
