@@ -1,16 +1,17 @@
 ---
-layout: default
+layout: toplevelgallery
 ---
 
 {% include galheader.html %}
 
 {% for gallery in site.data.galleries %}
   {% if gallery.id == page.galleryid %}
-	<div class="container"></div>
-    	<div class="col-md-5">
-    <h3>{{ gallery.description }}</h3>
+   <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+	 <div class="shell">
+    	
+   
     <ol>
-	
+	 <h3>{{ gallery.description }}</h3>
     {% for image in gallery.images %}
 	
     
@@ -23,6 +24,8 @@ layout: default
     {% endfor %}
 
     </ol>
+	</div>
+	</div>
 	</div>
 	</div>
   {% endif %}
