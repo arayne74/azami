@@ -6,7 +6,7 @@ author: "Azamikai"
 coverImg: "post-bg.jpg"
 ---
 
-Congratulations to those who promoted in the recent grading!
+Congratulations to those who were promoted in the recent grading!
 
 **6th kyu**
 
