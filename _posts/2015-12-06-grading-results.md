@@ -8,8 +8,24 @@ coverImg: "post-bg.jpg"
 
 Congratulations to those who promoted in the recent grading!
 
-| 6th Kyu       | 5thKyu       | 4thKyu     | 3rd Kyu         | 1st Dan          | 2nd Dan            |
-|---------------|--------------|------------|-----------------|------------------|--------------------|
-| Michal Kascak | Davis Hunter | Glen Jones | Henry Liu       | Jo Clayton       | Johannes Grossmann |
-|               |              |            | Emiliya Wysocka | Alasdair Edwards | Richard Luckett    |
-|               |              |            |                 |                  | Kaoru Minowa       |
+6th kyu
+Michal Kascak
+ 
+5th kyu
+Davis Hunter
+ 
+4th kyu
+Glen Jones
+ 
+3rd kyu
+Henry Liu
+Emiliya Wysocka
+ 
+1st dan
+Jo Clayton
+Alasdair Edwards
+ 
+2nd dan
+Johannes Grossmann
+Richard Luckett
+Kaoru Minowa
