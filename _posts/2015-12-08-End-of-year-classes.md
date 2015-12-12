@@ -3,7 +3,7 @@ layout: post
 title: "End of the Year"
 description: "Last Azamikai Class times of the year"
 author: "Azamikai"
-coverImg: "post-bg.jpg"
+coverImg: "christmas-snow.jpg"
 ---
 
 The following are last classes of the year at the various dojos:
