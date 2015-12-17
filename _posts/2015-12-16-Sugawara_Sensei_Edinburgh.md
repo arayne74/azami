@@ -19,7 +19,6 @@ Sugawara Sensei always makes an effort to come round and throw everyone and make
 
 [Here he is in action](https://www.youtube.com/watch?v=Yyl-aZFISAk)
 
-Flyer attached with all details (times, venues, pricing).
 
 For further information and to book your place, please send an email to: aikidoazamikai@gmail.com
 
