@@ -3,14 +3,24 @@ layout: default
 title: "Edinburgh Aikikai"
 group: "navigation"
 description: ""
+category: "Aikido Aikikai Edinburgh classes"
 coverImg: "Edinburgh_Castle_from_the_south_east.jpg"
 order: 2
 ---
 
+
+<title>
+  {% if page.title %}
+    {{ page.title }}
+  {% else %}
+    Default Page Title
+  {% endif %}
+</title>
+
       <div class="container">
           <div class="row">
               <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-				 <h3> Edinburgh Aikikai</h3><br>
+				 <h3>{{ page.title }}</h3><br>
 				 <div class="shell">
 					 <h4>Class Times</h4><br>
 				<table style="width:100%">
