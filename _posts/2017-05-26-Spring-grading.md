@@ -24,4 +24,5 @@ Paul Sorensen
 **6th Kyu**
 
 Timothy Court
+
 John Telfer
