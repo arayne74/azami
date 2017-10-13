@@ -3,7 +3,7 @@ markdown: kramdown
 url: http://www.azamikai.co.uk
 baseurl:
 plugins:
-  - jekyll-sitemap
   - jekyll-paginate
 paginate: 4
+
 
