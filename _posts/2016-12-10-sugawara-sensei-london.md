@@ -4,7 +4,7 @@ title: "Sugawara Sensei in London"
 description: ""
 author: "Azamikai"
 coverImg: "post-bg.jpg"
-date: 2016-12-10T14:00
+date: 2016-12-10T14:00:00Z
 ---
 
 **London:** <br>
