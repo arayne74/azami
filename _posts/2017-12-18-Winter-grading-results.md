@@ -23,8 +23,6 @@ Harry Gooch
 Kevin Smith
 
 David Burgess
-
-Alasdair Edwards
  
 **2nd dan**
 
