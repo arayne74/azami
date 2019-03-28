@@ -1,6 +1,6 @@
 markdown: kramdown
 
-url: http://www.azamikai.co.uk
+url: https://www.azamikai.co.uk
 baseurl:
 plugins:
   - jekyll-paginate
